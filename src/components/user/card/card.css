@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+.contCard{
+  /* background-image: linear-gradient(#27b09c,#8b40bf);  */
+  background-color: #608CA7; 
+  padding: 2vh 0 15vh 0;  
+}
+
+.card{
+  margin: auto;
+  width: 295px;
+  height: 166px;
+  border-radius: 1vh;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  background-image: url('../../../img/max_bg.png');
+  background-repeat: no-repeat;
+  background-size: 120%;
+  color: white;
+}
+
+.data{
+font-family: 'Roboto Mono', monospace;  
+}
+
+.money{
+  margin: 1vh 0 0 0;
+}
+
+.contCard h5{
+  text-shadow: 2px 2px black;
+}
+
+.hideData{
+  background-color: #27b09c;
+  margin-top: 5.5vh;
+}
+
+.hideData p{
+  margin: 0;
+  font-weight: bold;
+}

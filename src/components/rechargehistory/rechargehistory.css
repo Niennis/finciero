@@ -1,0 +1,38 @@
+.rechargeHistory{
+  line-height: 12px;
+  text-align: justify;
+}
+
+.recharge:first-child{
+  margin-top: 11vh;  
+}
+
+.date{
+  color: #8b40bf;
+}
+
+.total{
+  color: #27b09c;
+  font-weight: bold;
+}
+
+.glyphicon-remove-sign{
+  color: #e40000;
+}
+
+.glyphicon-ok-sign{
+  color: #0b920b;
+}
+
+.glyphicon-minus-sign{
+  color: gray;  
+}
+
+.glyphicon-ok-sign, .glyphicon-remove-sign, .glyphicon-minus-sign{
+  font-size: 18px;
+}
+
+hr{
+  margin: 0.5vh;
+  background-color: gray;
+}

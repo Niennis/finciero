@@ -1,0 +1,47 @@
+.profileCont{
+  text-align: justify;
+  background-color: #ebe5e5;   
+  
+}
+
+.profileItem{
+  width: 90vw;
+  margin: 0 auto 1.5vh auto;
+  padding: 0.8vh;
+  /* height: 7vh; */
+  color: #556b77;
+  border-radius: 0.5vh;
+  box-shadow: 0 3px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 8px 0 rgba(0, 0, 0, 0.19);  
+  color: #449faf;
+  font-weight: bold;
+  background-color: white;   
+}
+
+.profileCont label, .profileItem{
+  text-align: justify;
+  margin: 0 auto 1.5vh auto;
+  display: block;  
+}
+
+.profileCont label{
+  margin: 0 0 0 4vh;
+  color: #556b77; 
+}
+
+a{
+  color: #8b40bf;
+}
+
+.contact{
+  margin-bottom: 10vh;
+}
+
+input{
+  border: none;
+}
+
+.sendData{
+  margin: 1vh auto;
+  display: block;
+
+}

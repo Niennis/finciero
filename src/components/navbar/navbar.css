@@ -1,0 +1,43 @@
+.navTop{
+  margin-top: 8vh;
+}
+
+.navbar-default{
+  margin-bottom: 0;
+  box-shadow: 0 3px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 8px 0 rgba(0, 0, 0, 0.19);    
+}
+
+.navbar-brand{
+  padding: 0.2vh 0 0 5vw;
+}
+
+.navbar-nav>li{
+  display: inline-block;
+}
+
+.nav>li>a{
+  display: inline-block;
+}
+
+.contCard>img{
+  margin: auto;
+}
+
+.photoUser{
+  border-radius: 50%;
+  width: 3em;
+  margin-top: 0.5vh;
+  margin-left: -4vw;  
+}
+
+.languajeBtn{
+  margin-top: 1.2vh;
+  margin-left: -4vw;
+}
+
+.envelope{
+  font-size: 4vh;
+  margin-top: 1.2vh;
+  margin-left: -2vw;  
+  color: #556b77;
+}

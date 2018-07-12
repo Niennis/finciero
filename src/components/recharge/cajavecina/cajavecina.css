@@ -1,0 +1,40 @@
+.instructionsCont{
+  margin: 3vh auto;
+  border-radius: 1vh;
+  width: 90vw;
+  box-shadow: 0 3px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 8px 0 rgba(0, 0, 0, 0.19);
+  text-align: justify;
+}
+
+.record{
+  color: #449faf;
+  vertical-align: middle;
+}
+
+.instructions{
+  text-align: left;  
+  font-size: 14px;
+  color: #556b77;
+  font-weight: bold;
+}
+
+.back{
+  font-size: 22px;
+  color: white;
+  vertical-align: middle;
+  margin-top: 1.2vh;
+}
+
+.mailFinciero{
+  color: #449faf;
+  font-weight: bold;
+}
+
+.uploadTicket{
+  font-size: 30px;
+  color: #449faf;
+}
+
+input[type="file"] {
+  display: none;
+}

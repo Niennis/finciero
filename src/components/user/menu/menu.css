@@ -1,0 +1,19 @@
+.menuTitle{
+  text-align: left;
+  font-size: 16px;
+  color: #556b77;  
+}
+
+.menuItem{
+  margin: 1vh;
+  padding: 1.5vh;
+  height: 7vh;
+  background-color: lightgrey;
+  border-radius: 0.5vh;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 4px 0 rgba(0, 0, 0, 0.19);    
+}
+
+.menuIcon{
+  font-size: 22px;
+  color: #556b77;
+}

@@ -1,0 +1,59 @@
+.recharge{
+  height: 84vh;
+  width: 100vw;
+}
+
+.recharge .row, .rechargeMoney .row{
+  margin: 0;  
+}
+
+.recharge h3{
+  margin: 1vh;
+  display: inline;
+}
+
+.recharge h4{
+  color: #8b40bf;
+  font-weight: bold;
+}
+
+.rechargeOp{
+  text-align: left;
+  font-size: 16px;
+  color: #556b77;
+  font-weight: bold;
+}
+
+.quantity{
+  background-color: #e4e0e0;
+  margin: 2vh 1.5vh 0 1.5vh;
+  box-shadow: 0 3px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 8px 0 rgba(0, 0, 0, 0.19);    
+}
+
+.quantity h2{
+  color: #556b77;
+  text-shadow: 1px 1px lightgray;
+}
+
+.quantity input{
+  border-top: #556b77;
+  border-left: none;
+  border-right: none;
+  width: 55vw;
+  border-radius: 1vh;
+  background-color: white;  
+  margin: 4vh 0;
+  padding-left: 1vh;
+  box-shadow: 0 3px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 8px 0 rgba(0, 0, 0, 0.19);  
+}
+
+.quantity input::placeholder{
+  color: gray;
+  font-size: 14px;
+}
+
+.quantity button{
+  margin: 14vh 0  4vh 0;
+  font-size: 22px;
+  background-color: #449faf;
+}

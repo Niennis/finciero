@@ -1,0 +1,64 @@
+{
+  "commerces": [
+    {
+      "name": "Amazon",
+      "image": "Amazon",
+      "url": "https://www.amazon.com/"
+    },
+    {
+      "name": "Ebay",
+      "image": "../../img/ebay.png",
+      "url": "https://www.ebay.com/"      
+    },
+    {
+      "name": "Google Store",
+      "image": "../../img/google_play.png",
+      "url": "https://play.google.com/store?hl=es"      
+    },
+    {
+      "name": "Steam",
+      "image": "../../img/steam.png",
+      "url": "https://store.steampowered.com/games/"
+    },
+    {
+      "name": "Uber",
+      "image": "../../img/uber.png",
+      "url": "https://www.uber.com/es-CL/"
+    },
+    {
+      "name": "App Store",
+      "image": "../../img/appstore.png",
+      "url": "https://itunes.apple.com/cl/genre/ios/id36?mt=8"
+    },
+    {
+      "name": "Aliexpress",
+      "image": "../../img/aliexpress.png",
+      "url": "https://es.aliexpress.com/"
+    },
+    {
+      "name": "Despegar.com",
+      "image": "../../img/despegar.png",
+      "url": "https://www.despegar.cl/"
+    },
+    {
+      "name": "iTunes",
+      "image": "../../img/amazon.png",
+      "url": "https://www.apple.com/cl/itunes/"
+    },
+    {
+      "name": "Netflix",
+      "image": "../../img/netflix.png",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "name": "Spotify",
+      "image": "../../img/spotify.png",
+      "url": "https://www.spotify.com/cl/"
+    },
+    {
+      "name": "PayPal",
+      "image": "../../img/paypal.png",
+      "url": "https://www.paypal.com/cl/home"
+    }
+  ]
+}

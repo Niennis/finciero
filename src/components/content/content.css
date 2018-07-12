@@ -1,0 +1,39 @@
+
+.headerRe, .backToUser{
+  color: white;
+  text-shadow: 3px 2px  #00000033;  
+}
+
+.headerRe{
+  background-color: #608CA7;
+  margin: 0;
+  width: 100vw;
+  padding: 3vh 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: fixed; 
+  top: 0; 
+  z-index: 99999999;
+}
+
+.headerRe h3{
+  margin: 1vh;
+  display: inline;
+}
+
+.itemContainer{
+  width: 96vw;
+  margin: 1.5vh 0.8vh;
+  padding: 1.5vh 0vh;
+  /* height: 7vh; */
+  color: #556b77;
+  border-radius: 0.5vh;
+  box-shadow: 0 3px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 8px 0 rgba(0, 0, 0, 0.19);  
+}
+
+.itemContainer:last-child{
+  margin-bottom: 10vh;
+}
+
+.itemContainer:nth-child(odd){
+  background-color: #ebe5e5; 
+}

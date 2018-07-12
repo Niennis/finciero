@@ -1,0 +1,26 @@
+.comCont{
+  background-color: lightgray;
+  margin: 1.2vh 0 0 -1.2vh;
+  width: 46vw;
+  height: 46vw;
+  border-radius: 2vh;
+  position: relative;
+}
+
+.commerceCont:last-child{
+  margin-bottom: 10vh;
+}
+
+.comCont img{
+  width: 40vw;
+  padding: 1.5vh 0;
+  position: absolute;
+  left: 50%; top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 20%;  
+  /* filter: grayscale(50%); */
+}
+
+.modalCont{
+  margin-top: 10vh !important;
+}
