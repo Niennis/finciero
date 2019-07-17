@@ -1,1 +1,1 @@
-## [Finciero](#https://niennis.github.io/finciero/)
+## [Finciero](https://niennis.github.io/finciero/)
